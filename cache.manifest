@@ -1,16 +1,16 @@
 CACHE MANIFEST
-# Revised on 1422156596838242
+# Revised on 142215659683824244
 
 CACHE:
-/index.html
-/javascript/vendor.js
-/javascript/templates.js
-/javascript/main.js
+http://imcnally.github.io/farely/index.html
+http://imcnally.github.io/farely/javascript/vendor.js
+http://imcnally.github.io/farely/javascript/templates.js
+http://imcnally.github.io/farely/javascript/main.js
 http://fonts.googleapis.com/css?family=Source+Sans+Pro:300
-/stylesheets/normalize.css/normalize.css
-/stylesheets/main.css
-/icon.png
-/favicon.ico
+http://imcnally.github.io/farely/stylesheets/normalize.css/normalize.css
+http://imcnally.github.io/farely/stylesheets/main.css
+http://imcnally.github.io/farely/icon.png
+http://imcnally.github.io/farely/favicon.ico
 
 NETWORK:
 *
