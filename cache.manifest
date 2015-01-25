@@ -1,16 +1,16 @@
 CACHE MANIFEST
-# Revised on 1422156596838
+# Revised on 14221565968389
 
 CACHE:
-/index.html
-/javascript/vendor.js
-/javascript/templates.js
-/javascript/main.js
+index.html
+javascript/vendor.js
+javascript/templates.js
+javascript/main.js
 http://fonts.googleapis.com/css?family=Source+Sans+Pro:300
-/stylesheets/normalize.css/normalize.css
-/stylesheets/main.css
-/icon.png
-/favicon.ico
+stylesheets/normalize.css/normalize.css
+stylesheets/main.css
+icon.png
+favicon.ico
 
 NETWORK:
 *
